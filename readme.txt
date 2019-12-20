@@ -1,0 +1,1 @@
+just paste it at C:\Users\{username}\AppData\Roaming\CodeBlocks
